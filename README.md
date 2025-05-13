@@ -111,13 +111,6 @@
 
 ---
 
-🧪 Projeto em Destaque
-🔹 Projeto Caixa
-📂 Repositório
-🧾 Aplicação prática com foco em organização de entradas/saídas financeiras e lógica de controle.
-
----
-
 📫 Como me encontrar
 📧 Email: dev.caioribeiro@proton.me
 🔗 LinkedIn: https://www.linkedin.com/in/caio-ribeiro-647729302/
