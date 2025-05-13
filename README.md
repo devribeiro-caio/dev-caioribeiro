@@ -67,13 +67,6 @@
 
 ---
 
-📫 Como me encontrar
-📧 Email: dev.caioribeiro@proton.me
-🔗 LinkedIn: https://www.linkedin.com/in/caio-ribeiro-647729302/
-📍 Caieiras – SP
-
----
-
 GitHub
 GitHub - devribeiro-caio/caixa
 Contribute to devribeiro-caio/caixa development by creating an account on GitHub.
