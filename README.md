@@ -132,7 +132,6 @@
 
 ---
 
-“Aprender é minha paixão, programar é o meu caminho e crescer na área tech é o meu objetivo.” 🚀
 GitHub
 GitHub - devribeiro-caio/caixa
 Contribute to devribeiro-caio/caixa development by creating an account on GitHub.
