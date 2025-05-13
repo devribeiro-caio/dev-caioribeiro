@@ -46,13 +46,6 @@
 
 ---
 
-📫 **Como me encontrar**  
-📧 Email: dev.caioribeiro@proton.me  
-🔗 [LinkedIn](https://www.linkedin.com/in/caio-ribeiro-647729302/)  
-📍 Caieiras – SP
-
----
-
 🧪 **Projeto em Destaque**  
 🔹 Projeto Caixa  
 📂 Repositório  
