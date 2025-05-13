@@ -66,15 +66,6 @@
 
 ---
 
-📚 **Cursos e Certificações**  
-🟨 JavaScript em 7 dias + Projetos Reais – Udemy  
-🐍 Python 3 – Do Básico ao Avançado – Udemy  
-🧠 Lógica de Programação com JavaScript – Alura  
-🔧 Imersão Dev Back-End – Alura  
-🧑‍💼 Fundamentos Tech – Santander Tech+ | Ada Tech
-
----
-
 🧪 **Projeto em Destaque**  
 🔹 Projeto Caixa  
 📂 Repositório  
@@ -100,14 +91,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
----
-
-📚 Cursos e Certificações
-🟨 JavaScript em 7 dias + Projetos Reais – Udemy
-🐍 Python 3 – Do Básico ao Avançado – Udemy
-🧠 Lógica de Programação com JavaScript – Alura
-🔧 Imersão Dev Back-End – Alura
-🧑‍💼 Fundamentos Tech – Santander Tech+ | Ada Tech
 
 ---
 
