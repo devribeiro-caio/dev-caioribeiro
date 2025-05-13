@@ -60,10 +60,6 @@
 
 ---
 
-> “Aprender é minha paixão, programar é o meu caminho e crescer na área tech é o meu objetivo.” 🚀
-
----
-
 💡 **Tecnologias e Ferramentas**
 
 <p align="left">
