@@ -9,7 +9,7 @@
 
 👨‍💻 Sobre mim
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (2º semestre)
-🚀 Em transição de carreira, com foco em desenvolvimento front-end, lógica de programação e análise de dados
+🚀 Em transição de carreira, com foco em desenvolvimento front-end, JavaScript e React Native
 🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais
 📍 Localização: Caieiras – SP
 
@@ -23,12 +23,28 @@
 ---
 
 💡 Tecnologias e Ferramentas
-Linguagens: JavaScript, TypeScript
-Frameworks: Reactjs, nodejs
-Ferramentas: Excel, Word, Git & GitHub
-Outros: Criação de dashboards, manipulação de sistemas e análise de dados
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
 ---
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=CarlosFNC&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFNC&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 
 📚 Cursos e Certificações
 🟨 JavaScript em 7 dias + Projetos Reais – Udemy
