@@ -1,20 +1,59 @@
 # dev-caioribeiro
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
-   <a href="https://www.instagram.com/caioribeiro.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/riselfn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href = "https://mail.proton.me/u/14/inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-ribeiro-647729302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<h1 align="center">Olá! Eu sou o Caio Ribeiro 👋</h1>
+
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta em Front-End e Dados 📊 | Em busca de uma oportunidade para evoluir como desenvolvedor 💻
+</p>
+
+---
+
+👨‍💻 Sobre mim
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (2º semestre)
+🚀 Em transição de carreira, com foco em desenvolvimento front-end, lógica de programação e análise de dados
+🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais
+📍 Localização: Caieiras – SP
+
+---
+
+📊 Linguagens mais utilizadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribeiro-caio&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas no GitHub do Caio Ribeiro"/>
+</p>
+
+---
+
+💡 Tecnologias e Ferramentas
+Linguagens: JavaScript, TypeScript
+Frameworks: Reactjs, nodejs
+Ferramentas: Excel, Word, Git & GitHub
+Outros: Criação de dashboards, manipulação de sistemas e análise de dados
+
+---
+
+📚 Cursos e Certificações
+🟨 JavaScript em 7 dias + Projetos Reais – Udemy
+🐍 Python 3 – Do Básico ao Avançado – Udemy
+🧠 Lógica de Programação com JavaScript – Alura
+🔧 Imersão Dev Back-End – Alura
+🧑‍💼 Fundamentos Tech – Santander Tech+ | Ada Tech
+
+---
+
+🧪 Projeto em Destaque
+🔹 Projeto Caixa
+📂 Repositório
+🧾 Aplicação prática com foco em organização de entradas/saídas financeiras e lógica de controle.
+
+---
+
+📫 Como me encontrar
+📧 Email: dev.caioribeiro@proton.me
+🔗 LinkedIn: https://www.linkedin.com/in/caio-ribeiro-647729302/
+📍 Caieiras – SP
+
+---
+
+“Aprender é minha paixão, programar é o meu caminho e crescer na área tech é o meu objetivo.” 🚀
+GitHub
+GitHub - devribeiro-caio/caixa
+Contribute to devribeiro-caio/caixa development by creating an account on GitHub.
