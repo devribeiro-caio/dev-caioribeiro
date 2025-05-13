@@ -80,20 +80,6 @@
 
 ---
 
-> “Aprender é minha paixão, programar é o meu caminho e crescer na área tech é o meu objetivo.” 🚀
-
-💡 Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</p>
-
----
-
 📫 Como me encontrar
 📧 Email: dev.caioribeiro@proton.me
 🔗 LinkedIn: https://www.linkedin.com/in/caio-ribeiro-647729302/
