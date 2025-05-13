@@ -64,5 +64,3 @@
 </div>
 
 GitHub
-GitHub - devribeiro-caio/caixa
-Contribute to devribeiro-caio/caixa development by creating an account on GitHub.
