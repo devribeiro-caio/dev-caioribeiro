@@ -7,20 +7,100 @@
 
 ---
 
-👨‍💻 Sobre mim
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (2º semestre)
-🚀 Em transição de carreira, com foco em desenvolvimento front-end, JavaScript e React Native
-🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais
+👨‍💻 **Sobre mim**  
+🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi (2º semestre)  
+🚀 Em transição de carreira, com foco em desenvolvimento front-end, JavaScript e React Native  
+🛠️ Buscando uma oportunidade de estágio para aplicar meus conhecimentos técnicos em ambientes reais  
 📍 Localização: Caieiras – SP
 
 ---
 
-📊 Linguagens mais utilizadas
+📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribeiro-caio&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas no GitHub do Caio Ribeiro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devribeiro-caio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devribeiro-caio&layout=compact&langs_count=6&theme=dark"/>
 </p>
 
 ---
+
+💡 **Tecnologias e Ferramentas**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+---
+
+📚 **Cursos e Certificações**  
+🟨 JavaScript em 7 dias + Projetos Reais – Udemy  
+🐍 Python 3 – Do Básico ao Avançado – Udemy  
+🧠 Lógica de Programação com JavaScript – Alura  
+🔧 Imersão Dev Back-End – Alura  
+🧑‍💼 Fundamentos Tech – Santander Tech+ | Ada Tech
+
+---
+
+🧪 **Projeto em Destaque**  
+🔹 Projeto Caixa  
+📂 Repositório  
+🧾 Aplicação prática com foco em organização de entradas/saídas financeiras e lógica de controle.
+
+---
+
+📫 **Como me encontrar**  
+📧 Email: dev.caioribeiro@proton.me  
+🔗 [LinkedIn](https://www.linkedin.com/in/caio-ribeiro-647729302/)  
+📍 Caieiras – SP
+
+---
+
+> “Aprender é minha paixão, programar é o meu caminho e crescer na área tech é o meu objetivo.” 🚀
+
+---
+
+💡 **Tecnologias e Ferramentas**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+---
+
+📚 **Cursos e Certificações**  
+🟨 JavaScript em 7 dias + Projetos Reais – Udemy  
+🐍 Python 3 – Do Básico ao Avançado – Udemy  
+🧠 Lógica de Programação com JavaScript – Alura  
+🔧 Imersão Dev Back-End – Alura  
+🧑‍💼 Fundamentos Tech – Santander Tech+ | Ada Tech
+
+---
+
+🧪 **Projeto em Destaque**  
+🔹 Projeto Caixa  
+📂 Repositório  
+🧾 Aplicação prática com foco em organização de entradas/saídas financeiras e lógica de controle.
+
+---
+
+📫 **Como me encontrar**  
+📧 Email: dev.caioribeiro@proton.me  
+🔗 [LinkedIn](https://www.linkedin.com/in/caio-ribeiro-647729302/)  
+📍 Caieiras – SP
+
+---
+
+> “Aprender é minha paixão, programar é o meu caminho e crescer na área tech é o meu objetivo.” 🚀
 
 💡 Tecnologias e Ferramentas
 <p align="left">
@@ -32,19 +112,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 ---
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CarlosFNC&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFNC&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
 
 📚 Cursos e Certificações
 🟨 JavaScript em 7 dias + Projetos Reais – Udemy
