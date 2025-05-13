@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Caio Ribeiro 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Front-End 📊 | Em busca de uma oportunidade para evoluir como desenvolvedor 💻
+ Estudante de ADS | Front-End | JavaScript | TypeScript | React | Nodejs | Buscando estágio em TI 💻
 </p>
 
 ---
